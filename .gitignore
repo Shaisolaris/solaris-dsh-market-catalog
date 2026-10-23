@@ -4,7 +4,6 @@ node_modules/
 # the moment the folder is opened, and `git add -A` sweeps it into the PR —
 # #1663 committed six of these files before anyone noticed.
 .idea/
-.vscode/
 *.swp
 docs/
 data/npm-map.json
@@ -23,3 +22,4 @@ data/screenshots-declared.json
 data/screenshots-live.json
 
 .npm-cache/
+config.bat
